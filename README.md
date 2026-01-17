@@ -1,5 +1,6 @@
-##Thong tin
--Pham Tran Thanh Cong
--msv: 23810310233
-##Ket qua: 
-![Ket qua](screenshots/result.jpg)
+## Thông tin
+- Phạm Trần Thanh Công
+- MSV: 23810310233
+
+## Kết quả
+![Kết quả](screenshots/result.jpg)
